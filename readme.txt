@@ -3,6 +3,7 @@ git is free software distributed under the GPL.
 git has a mutable index called statge
 test
 111111111
+333333
 22222
 test
 git tracks changes of files.
