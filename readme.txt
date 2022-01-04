@@ -4,6 +4,7 @@ git has a mutable index called statge
 test
 111111111
 333333
+444444
 22222
 test
 git tracks changes of files.
