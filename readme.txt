@@ -4,6 +4,7 @@ git has a mutable index called statge
 test
 add dev3
 test dev3 second time
+test dev3 third time
 111111111
 test
 git tracks changes of files.
