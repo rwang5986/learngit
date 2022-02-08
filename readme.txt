@@ -18,6 +18,8 @@ add update2 second time thrid time
 ----------------
 branch one
 ---------------
-
+______________
+branch two 2
+______________
 
 add a test but not retrieve
