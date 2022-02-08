@@ -19,7 +19,7 @@ add update2 second time thrid time
 branch one 111111111111
 ---------------
 ______________
-branch two 2
+branch two 222222222222
 ______________
 
 add a test but not retrieve
